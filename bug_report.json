@@ -3,7 +3,7 @@
   "project" : "site example.com",
   "version" : 1.0 ,
   "priority" : "medium",
-  "severity" "major",
+  "severity" : "major",
   "status" : "new",
   "author": "Safina_Dinara",
   "assigned_to": "test coordinator",
